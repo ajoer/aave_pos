@@ -28,3 +28,5 @@ Provided you have a working installation of NLTK, you can recreate the Brown dat
 ``python rungsted/datasets/cr_brown_pos_data.py data/brown.train.vw data/brown.test.vw``
 
 There is also a script `rungsted/datasets/conll_to_vw.py` to convert from CONLL-formatted input to Rungsted 
+
+NB: this is the work of @andersjo, and thank you very much for that, Anders.
