@@ -29,4 +29,4 @@ I experimented with two setups for learning from this automatically annotated da
 
 For more information on the project, the results, the data and the code, please see the [paper](https://www.aclweb.org/anthology/N16-1130.pdf), or if you really want a deep dive, here's [my thesis](https://drive.google.com/file/d/0B_4p-RZsBhYzM1EzVndIVklQUDQ/view?usp=sharing).
 
-NB: I've recently started cleaning up the original code and data. For now, only the ambiguous learning scenario is supported. Selftraining and visualization modules will be added shortly.
+NB: I've recently started cleaning up the original code and data. For now, only the ambiguous learning scenario is supported. Selftraining and visualization modules will be added shortly. The training data is too large for github, so I'll add it somewhere else, but the test data is fine.
